@@ -3,4 +3,8 @@ bbbb
 cccc
 dddd
 sub1作成後
+→HEAD
 マスターの変更
+＝＝＝＝
+subの新しい変更
+→sub
